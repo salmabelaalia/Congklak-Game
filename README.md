@@ -171,10 +171,6 @@ cd Congklak-Game
 python main.py
 ```
 
-> 💡 **Conseil** : Lancez depuis le terminal ou un éditeur (VS Code, PyCharm) pour éviter l'icône du navigateur dans la barre des tâches.
-
----
-
 ## 🖥️ Interface
 
 ```
