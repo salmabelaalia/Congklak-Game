@@ -161,14 +161,14 @@ congklak.py
 ### Cloner le projet
 
 ```bash
-git clone https://github.com/salmabelaalia/Congklak-AI-Game.git
-cd Congklak-AI-Game
+git clone https://github.com/salmabelaalia/Congklak-Game.git
+cd Congklak-Game
 ```
 
 ### Lancer le jeu
 
 ```bash
-python congklak.py
+python main.py
 ```
 
 > 💡 **Conseil** : Lancez depuis le terminal ou un éditeur (VS Code, PyCharm) pour éviter l'icône du navigateur dans la barre des tâches.
